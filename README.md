@@ -9,12 +9,12 @@
 First compile the code with gcc.Then use command line argument for example:  
 ![command line](https://user-images.githubusercontent.com/46817744/110621270-0fd5e980-81ab-11eb-9905-2963e046ddf5.png)
 
-##Normal image  
+## Normal image  
 ![itu](https://user-images.githubusercontent.com/46817744/110621824-bb7f3980-81ab-11eb-9773-9be1fc510841.jpeg)  
 
-##Downsampled image  
+## Downsampled image  
 ![itu-downscaled](https://user-images.githubusercontent.com/46817744/110621816-ba4e0c80-81ab-11eb-9893-7bfc2479fe82.jpeg)  
 
 
-#Smoothed image  
+## Smoothed image  
 ![itu-smoothed](https://user-images.githubusercontent.com/46817744/110621820-bae6a300-81ab-11eb-8ae3-70adb5051558.jpeg)
